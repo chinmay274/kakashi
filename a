@@ -15,7 +15,8 @@ Open the tool. Take new File and then type any text which we want to encrypt.
 Select the option Symmetric(modern) from encrypt/decrypt and in that choose RC4.
 First Encrypt the data then decrypt the data.After decryption we will get the same text as the output.
 b) Use Cain and Abel for cracking Windows account password using Dictionary attack and to decode wireless network passwords 
-Steps:1:Select tools in that select option hash Calculator.
+Steps:
+1:Select tools in that select option hash Calculator.
 2:After this type the password and click on calculate
 3:Copy the MD5 text
 4:Then in cracker option select MD5 option
